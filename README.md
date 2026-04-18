@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=AI+ENTHUSIAST+%7C+DATA+SCIENCE+EXPLORER;BACKEND+DEVELOPER+%7C+PROBLEM+SOLVER;POWERED+BY+CAFFEINE+AND+CURIOSITY)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=AI+ENGINEER+%7C+DATA+SCIENTIST;BACKEND+ENGONEER+%7C+PROBLEM+SOLVER;POWERED+BY+CAFFEINE+AND+CURIOSITY)](https://git.io/typing-svg)
   
   <img src="https://komarev.com/ghpvc/?username=Yajush-afk&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   
