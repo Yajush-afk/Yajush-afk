@@ -22,16 +22,17 @@ I am open to AI/ML engineering internships, technical collaboration, and impactf
 
 <div align="center">
   <a href="https://github.com/BrandNewDevs/WorkBench">
-    <img src="./assets/cards/workbench.svg" width="100%" alt="WorkBench: local-first AI for confidential industrial documents" />
-  </a><br />
+    <img width="49%" src="https://opengraph.githubassets.com/1/BrandNewDevs/WorkBench" alt="WorkBench repository preview" />
+  </a>
   <a href="https://github.com/Yajush-afk/SAGE">
-    <img src="./assets/cards/sage.svg" width="100%" alt="SAGE: safe local-first AI command layer" />
-  </a><br />
+    <img width="49%" src="https://opengraph.githubassets.com/1/Yajush-afk/SAGE" alt="SAGE repository preview" />
+  </a>
+  <br />
   <a href="https://github.com/Yajush-afk/RouteMinds">
-    <img src="./assets/cards/routeminds.svg" width="100%" alt="RouteMinds: machine-learning transit intelligence" />
-  </a><br />
+    <img width="49%" src="https://opengraph.githubassets.com/1/Yajush-afk/RouteMinds" alt="RouteMinds repository preview" />
+  </a>
   <a href="https://github.com/Yajush-afk/jutsu-battle">
-    <img src="./assets/cards/jutsu-battle.svg" width="100%" alt="Jutsu Battle: offline computer-vision battle game" />
+    <img width="49%" src="https://opengraph.githubassets.com/1/Yajush-afk/jutsu-battle" alt="Jutsu Battle repository preview" />
   </a>
 </div>
 
