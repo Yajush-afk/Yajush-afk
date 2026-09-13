@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title description">
+  <title id="title">RouteMinds</title>
+  <desc id="description">Machine-learning transit intelligence for Delhi route selection and delay prediction.</desc>
+  <rect width="960" height="220" rx="22" fill="#0B1020"/>
+  <rect x="1" y="1" width="958" height="218" rx="21" fill="none" stroke="#1E3A8A" stroke-width="2"/>
+  <rect x="0" y="0" width="8" height="220" rx="4" fill="#F59E0B"/>
+  <circle cx="890" cy="38" r="72" fill="#3B2607" opacity=".62"/>
+  <circle cx="930" cy="174" r="96" fill="#3B2607" opacity=".36"/>
+  <rect x="42" y="44" width="74" height="74" rx="18" fill="#3B2607" stroke="#F59E0B" stroke-width="2"/>
+  <path d="M60 97c11-29 18 8 28-17 6-15 10-14 14-10" fill="none" stroke="#FDE68A" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="59" cy="98" r="6" fill="#FBBF24"/>
+  <circle cx="102" cy="70" r="6" fill="#FBBF24"/>
+  <text x="145" y="74" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="700">RouteMinds</text>
+  <text x="145" y="106" fill="#CBD5E1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Machine-learning transit intelligence for Delhi route selection.</text>
+  <text x="145" y="132" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Delay prediction and reliability-aware route optimisation.</text>
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="145" y="158" width="82" height="32" rx="16" fill="#3B2607" stroke="#D97706"/>
+    <text x="167" y="180" fill="#FDE68A">Python</text>
+    <rect x="239" y="158" width="88" height="32" rx="16" fill="#3B2607" stroke="#D97706"/>
+    <text x="259" y="180" fill="#FDE68A">XGBoost</text>
+    <rect x="339" y="158" width="70" height="32" rx="16" fill="#3B2607" stroke="#D97706"/>
+    <text x="361" y="180" fill="#FDE68A">GTFS</text>
+  </g>
+  <text x="860" y="186" fill="#FBBF24" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">VIEW REPO ↗</text>
+</svg>

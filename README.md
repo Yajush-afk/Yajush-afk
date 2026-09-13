@@ -22,19 +22,16 @@ I am open to AI/ML engineering internships, technical collaboration, and impactf
 
 <div align="center">
   <a href="https://github.com/BrandNewDevs/WorkBench">
-    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=BrandNewDevs&amp;repo=WorkBench&amp;theme=github_dark&amp;bg_color=0B1020&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;border_color=1E3A8A" alt="WorkBench repository card" />
-  </a>
+    <img src="./assets/cards/workbench.svg" width="100%" alt="WorkBench: local-first AI for confidential industrial documents" />
+  </a><br />
   <a href="https://github.com/Yajush-afk/SAGE">
-    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yajush-afk&amp;repo=SAGE&amp;theme=github_dark&amp;bg_color=0B1020&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;border_color=1E3A8A" alt="SAGE repository card" />
-  </a>
-</div>
-
-<div align="center">
+    <img src="./assets/cards/sage.svg" width="100%" alt="SAGE: safe local-first AI command layer" />
+  </a><br />
   <a href="https://github.com/Yajush-afk/RouteMinds">
-    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yajush-afk&amp;repo=RouteMinds&amp;theme=github_dark&amp;bg_color=0B1020&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;border_color=1E3A8A" alt="RouteMinds repository card" />
-  </a>
+    <img src="./assets/cards/routeminds.svg" width="100%" alt="RouteMinds: machine-learning transit intelligence" />
+  </a><br />
   <a href="https://github.com/Yajush-afk/jutsu-battle">
-    <img height="150" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Yajush-afk&amp;repo=jutsu-battle&amp;theme=github_dark&amp;bg_color=0B1020&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=58A6FF&amp;border_color=1E3A8A" alt="Jutsu Battle repository card" />
+    <img src="./assets/cards/jutsu-battle.svg" width="100%" alt="Jutsu Battle: offline computer-vision battle game" />
   </a>
 </div>
 
