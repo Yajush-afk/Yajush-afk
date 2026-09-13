@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <code>LLM &amp; Agent Systems</code> · <code>Local-First AI</code> · <code>Computer Vision</code> · <code>ML Systems</code> · <code>Backend APIs</code>
+  <code>LLM &amp; Agent Systems</code> · <code>Local-First AI</code> · <code>Computer Vision</code> · <code>ML Systems</code> · <code>Backend Engineer</code>
 </p>
 
 ## About
