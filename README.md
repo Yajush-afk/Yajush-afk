@@ -31,8 +31,8 @@ I am open to AI/ML engineering internships, technical collaboration, and impactf
   <a href="https://github.com/Yajush-afk/RouteMinds">
     <img width="49%" src="https://opengraph.githubassets.com/1/Yajush-afk/RouteMinds" alt="RouteMinds repository preview" />
   </a>
-  <a href="https://github.com/Yajush-afk/jutsu-battle">
-    <img width="49%" src="https://opengraph.githubassets.com/1/Yajush-afk/jutsu-battle" alt="Jutsu Battle repository preview" />
+  <a href="https://github.com/BrandNewDevs/Elegant">
+    <img width="49%" src="https://opengraph.githubassets.com/1/BrandNewDevs/Elegant" alt="Elegant repository preview" />
   </a>
 </div>
 
